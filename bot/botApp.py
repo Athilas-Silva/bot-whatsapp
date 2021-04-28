@@ -4,7 +4,7 @@ import time
 from webdriver_manager.microsoft import EdgeChromiumDriverManager
 from selenium.webdriver.common.keys import Keys
 
-# Navehar até o Whatsapp web
+# Navegar até o Whatsapp web
 driver = webdriver.Edge(EdgeChromiumDriverManager().install())
 driver.get("https://web.whatsapp.com/")
 time.sleep(30)
