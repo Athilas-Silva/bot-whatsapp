@@ -16,6 +16,15 @@ Bot para enviar mensagem de forma automática para seus contatos no whatsapp.
 Dependências da aplicação:
 - `` pip install selenium ``
 - `` pip install webdriver_manager ``
+
+Extensões para o Vs Code:
+
+![extencao](https://user-images.githubusercontent.com/71888055/116498452-28e04a00-a880-11eb-93e6-2318fb7a57c1.PNG)
+
+![extencao2](https://user-images.githubusercontent.com/71888055/116498457-2b42a400-a880-11eb-8aee-7003585d8ff4.PNG)
+
+![Python_Install](https://user-images.githubusercontent.com/71888055/116498461-2d0c6780-a880-11eb-9f28-b6e79289485f.gif)
+
 ##
 
 ### O que é Selenium e Webdriver
